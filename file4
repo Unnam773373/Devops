@@ -1,0 +1,14 @@
+<!DOCTYPE html> 
+<html> 
+    <head> 
+        <title></title> 
+        <style>   
+			body { 
+			/*your CSS code here*/ 
+			}        
+        </style> 
+    </head> 
+    <body> 
+		<!-- your HTML elements here --> 
+    </body> 
+</html> 
